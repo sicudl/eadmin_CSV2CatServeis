@@ -1,0 +1,16 @@
+E:\Compartida\Projectes\eSEU\Catàleg de serveis\CSV2baseDadesCatalegServeis\bin\CiclePagamentsDEBUG\CSV2baseDadesCatalegServeis.exe
+E:\Compartida\Projectes\eSEU\Catàleg de serveis\CSV2baseDadesCatalegServeis\bin\CiclePagamentsDEBUG\CSV2baseDadesCatalegServeis.pdb
+E:\Compartida\Projectes\eSEU\Catàleg de serveis\CSV2baseDadesCatalegServeis\bin\CiclePagamentsDEBUG\ConectordbER.dll
+E:\Compartida\Projectes\eSEU\Catàleg de serveis\CSV2baseDadesCatalegServeis\bin\CiclePagamentsDEBUG\EinaImportacio.dll
+E:\Compartida\Projectes\eSEU\Catàleg de serveis\CSV2baseDadesCatalegServeis\bin\CiclePagamentsDEBUG\MultiTools.dll
+E:\Compartida\Projectes\eSEU\Catàleg de serveis\CSV2baseDadesCatalegServeis\bin\CiclePagamentsDEBUG\RecursosProgramacio.dll
+E:\Compartida\Projectes\eSEU\Catàleg de serveis\CSV2baseDadesCatalegServeis\bin\CiclePagamentsDEBUG\MySql.Data.dll
+E:\Compartida\Projectes\eSEU\Catàleg de serveis\CSV2baseDadesCatalegServeis\bin\CiclePagamentsDEBUG\itextsharp.dll
+E:\Compartida\Projectes\eSEU\Catàleg de serveis\CSV2baseDadesCatalegServeis\bin\CiclePagamentsDEBUG\ICSharpCode.SharpZipLib.dll
+E:\Compartida\Projectes\eSEU\Catàleg de serveis\CSV2baseDadesCatalegServeis\bin\CiclePagamentsDEBUG\ConectordbER.pdb
+E:\Compartida\Projectes\eSEU\Catàleg de serveis\CSV2baseDadesCatalegServeis\bin\CiclePagamentsDEBUG\RecursosProgramacio.pdb
+E:\Compartida\Projectes\eSEU\Catàleg de serveis\CSV2baseDadesCatalegServeis\bin\CiclePagamentsDEBUG\MultiTools.pdb
+E:\Compartida\Projectes\eSEU\Catàleg de serveis\CSV2baseDadesCatalegServeis\bin\CiclePagamentsDEBUG\EinaImportacio.pdb
+E:\Compartida\Projectes\eSEU\Catàleg de serveis\CSV2baseDadesCatalegServeis\obj\CiclePagamentsDEBUG\ClientConsolaCSV2CatalegServeis.csprojResolveAssemblyReference.cache
+E:\Compartida\Projectes\eSEU\Catàleg de serveis\CSV2baseDadesCatalegServeis\obj\CiclePagamentsDEBUG\CSV2baseDadesCatalegServeis.exe
+E:\Compartida\Projectes\eSEU\Catàleg de serveis\CSV2baseDadesCatalegServeis\obj\CiclePagamentsDEBUG\CSV2baseDadesCatalegServeis.pdb

@@ -1,0 +1,297 @@
+;;ÀMBITS;PERFIL;;;;ESTUDIS I DOCÈNCIA;;;COMUNICACIÓ I RELACIONS EXTERNES;RECERCA I TRANSFERÈNCIA;SERVEIS A LA COMUNITAT UNIVERSITÀRIA;;;;;SERVEIS A LA SOCIETAT;;;;;BEQUES I AJUTS;GESTIÓ DE PERSONAL;TECNOLOGIES DE LA INFORMACIÓ I LA COMUNICACIÓ;GESTIÓ ECONÒMICA;
+AREA;Núm. Ordre;SUBÀMBITS;ESTUDIANTAT;SOCIETAT;PERSONAL DOCENT I INVESTIGADOR;PERSONAL D'ADMINISTRACIÓ I SERVEIS;ACCÉS A LA UNIVERSITAT;GRAU, MÀSTER I DOCTORAT;ALTRA FORMACIÓ: F. CONTINUA, F. ESPECÍFICA, LLENGÜES, CURSOS D'ESTIU;COMUNICACIÓ I RELACIONS EXTERNES;RECERCA I TRANSFERÈNCIA;SERVEIS DE SUPORT: CARNET, ALLOTJAMENT, CONGRESSOS, ASSEGURANCES;SERVEIS TÈCNICS ;ACTIVITATS: CULTURA, ESPORT, LLENGÜES, GÈNERE;LLIBRES, DOCUMENTS I BOTIGA;ESPAIS I INSTAL·LACIONS;ACTIVITATS: CULTURA, ESPORT, LLENGÜES, GÈNERE;INFORMACIÓ: GENERAL, ALLOTJAMENT, CONGRESSOS;ASSESSORAMENT TÈCNIC ;LLIBRES, DOCUMENTS I BOTIGA;ESPAIS I INSTAL·LACIONS;BEQUES I AJUTS;GESTIÓ DE PERSONAL;TECNOLOGIES DE LA INFORMACIÓ I LA COMUNICACIÓ;GESTIÓ ECONÒMICA;ADREÇA WEB DEL FORMULARI D'INICI
+ADQF;1;Preinscripció als graus;X;X;;;X;X;;;;;;;;;;;;;;;;;;https://accesnet.gencat.cat/accesnet/AppJava/html/index.html
+ADQF;2;Matrícula de grau, màster o doctorat;X;X;;;X;X;;;;;;;;;;;;;;;;;;https://automat.udl.cat/automatricula/index.jsp|http://www.doctorat.udl.cat/export/sites/Doctorat/documents/M1Sollicitud-de-matricula-als-programes-de-doctorat-2015_2016-catala.pdf
+ADQF;3;Certificat acadèmic oficial;X;;;;X;X;X;;;;;;;;;;;;;;;;;https://seuelectronica.udl.cat/CertificatAcademicOficial.php
+ADQF;4;Sol·licitud del títol universitari oficial;X;;;;;X;;;;;;;;;;;;;;;;;;https://seuelectronica.udl.cat/SolicitudTitolOficial.php
+ADQF;5;Beques i ajuts a l'estudi del Ministeri d'Educació, Cultura i Esport (MECD);X;;;;;X;;;;;;;;;;;;;;X;;;;
+ADQF;6;Programes de mobilitat de l'estudiant (Out);X;;;;;X;;;;;;;;;;;;;;X;;;;http://www.udl.cat/serveis/ori/estudiantat.html
+ADQF;7;Programes de mobilitat de l'estudiant (In);X;;;;;X;;;;;;;;;;;;;;X;;;;http://www.udl.cat/ca/serveis/ori/estudiantat_estranger/esp/
+ADQF;8;Beques i ajuts de mobilitat;X;;X;X;;X;;;;;;;;;;;;;;X;;;;
+ADQF;9;Beques per a l'estudiantat internacional de màster;X;;;;;X;;;;;;;;;;;;;;X;;;;http://www.udl.cat/serveis/ori/estudiantat_estranger/esp/regulares/ayudamaster.html#solicitud.
+ADQF;10;Informació genèrica sobre la UdL;X;X;X;X;X;X;;X;;;;;;;;X;;;;;;;;
+ADQF;11;Beques i ajuts de col·laboració i d'introducció a la recerca (BIR);X;;;;;X;;;X;;;;;;;;;;;X;;;;
+ADQF;12;Informació sobre allotjament universitari;X;X;X;X;;;;;;X;;;;;;X;;;;;;;;
+ADQF;13;Orientació i inserció laboral;X;X;;;;;;;;X;;;;;;;;;;;;;;https://ercd.udl.cat/index.php?IDEvent=Pol&_ga=1.81063511.196496610.1418646851|https://automat.udl.cat/borsatreball/acciones/validarentrada.do?entidad=alumno&_ga=1.141748849.254536489.1434009217
+ADQF;14;Carnet universitari;X;X;X;X;;;;X;;X;;;;;;;;;;;;;;
+ADQF;15;Preinscripció als màsters;X;X;;;X;X;;;;;;;;;;;;;;;;;;http://www.udl.cat/estudis/poficials.html
+ADQF;16;Matrícula i certificació d'activitats de formació contínua;X;X;X;X;;;X;;;X;;;;;;;;;;;;;;http://www.cfc.udl.cat/secretaria/solicituds.php|http://www.ice.udl.cat/ice/autoritzacio.pdf
+ADQF;17;Matrícula i certificació d'activitats de formació del professorat universitari;;;X;X;;;X;;;X;;X;;;;;;;;;;;;http://www.formacioprofessorat.udl.cat/upu/inscrip/alta.php
+ADQF;18;Activitats esportives;X;;X;X;;;;;;;;X;;;;;;;;;;;;http://www.esports.udl.cat/?page_id=663|http://www.esports.udl.cat/?page_id=666
+ADQF;19;Disponibilitat d'instal·lacions per a la pràctica de l'esport;X;X;X;X;;;;;;;;X;;X;X;;;;X;;;;;http://www.esports.udl.cat/?page_id=646
+ADQF;20;Ajuts esportistes universitaris;X;;;;;;;;;;;X;;;;;;;;X;;;;http://www.esports.udl.cat/?page_id=681
+ADQF;21;Cursos de llengües;X;X;X;X;;;X;;;;;X;;;X;;;;;;;;;http://www.udl.cat/serveis/il/cursos.html
+ADQF;22;Acreditació de coneixements lingüístics;X;X;X;X;;;X;;;;;X;;;X;;;;;;;;;http://www.udl.cat/serveis/il/acreditacio.html
+ADQF;23;Suport a les Proves d'Accés a la Universitat (PAU);X;X;;;X;;;;;;;X;;;X;;;;;;;;;
+ADQF;24;Proves d'Accés a la Universitat (PAU): Expedició de documents i certificats;X;X;;;X;;;;;;;X;;;X;;;;;;;;;
+ADQF;25;Cursos de la Universitat d'Estiu;X;X;X;X;;;X;;;;;X;;;X;;;;;;;;;
+ADQF;26;Propostes d'activitats de matèries bàsiques transversals;;;X;X;;X;X;;;X;;;;;;;;;;;;;;https://cv.udl.cat/access/content/group/docsvd/Documents%20Graus/transversal/Formulari%20sol%C2%B7licitud-MT%20web.pdf?_ga=1.86295128.196496610.1418646851
+ADQF;27;Assessorament en eines per a la gestió de la qualitat;X;;X;X;;;;;;;X;;;;;;;;;;;;;
+ADQF;28;Bustia de suggeriments/ queixes;X;;;;;;;;;;;;;;;;;;;;;;;https://tramitacio.udl.cat/
+ADQF;29;Assessorament i formació pel desenvolupament professional;;X;;;;;X;;;;;;;;;X;;;;;;;;
+ART;30;Assessorament en la presentació de projectes competitius (nacionals i europeus);;;X;;;;;;X;;;;;;;;;;;X;;;;
+ART;31;Assessorament en l'elaboració de convenis amb empreses i institucions;;;X;;;;;;X;;;;;;;;;;;;;;X;
+ART;32;Assessorament en valorització de resultats de la recerca;X;;X;X;;;;;X;;;;;;;;;;;;;;X;http://www.trampoli.udl.cat/sites/default/files/Formulari_avaluacio_tecnologia.pdf|http://www.trampoli.udl.cat/creacio_empreses/que_cal_saber
+ART;33;Assessorament i lliurament de serveis científicotècnics (SCT);X;X;X;X;;;;;X;;X;;;X;;;X;;X;;;;;http://www.udl.cat/recerca/oficina/sct.html
+ART;34;Assessorament en ajuts al personal investigador;X;X;X;X;;;;;X;;;;;;;;;;;X;X;;;
+ART;36;Gestió i organització de congressos;X;X;X;X;;;;;X;X;;;;;;X;;;;;;;;http://www.fundacio.udl.cat/finestreta_unica_empreses.php|http://www.fundacio.udl.cat/finestreta_unica_udl.php
+APE;38;Informació d'operacions econòmiques amb tercers (Portal del tercer);;X;;;;;;;;;;;;;;X;;;;;;;X;http://www.udl.cat/serveis/afin/nouusuariportal.html
+APE;39;Disponibilitat de crèdit;;;X;X;;;;;;;;;;;;;;;;;;;X;https://cv.udl.cat/access/content/group/normativa_economica/Sol%C2%B7licitud%20de%20disponibilitat%20de%20cr%C3%A8dit%20retingut/Sol%C2%B7licitud%20canvis%20retencio%20dels%20cr%C3%A8dits%20inicials.docx|https://cv.udl.cat/access/content/group/normativa_economica/Sol%C2%B7licitud%20de%20disponibilitat%20de%20cr%C3%A8dit%20retingut/Sol%C2%B7licitud%20aixecament%20retencio%20credits%20inicials.docx
+APE;41;Emissió, rectificació, anul·lació o devolució de factura;;;X;X;;;;;;;;;;;;;;;;;;;X;https://cv.udl.cat/access/content/group/normativa_economica/Sol%C2%B7licitud%20de%20disponibilitat%20de%20cr%C3%A8dit%20retingut/Sol%C2%B7licitud%20canvis%20retencio%20dels%20cr%C3%A8dits%20inicials.docx|https://cv.udl.cat/access/content/group/normativa_economica/EMISSI%C3%93%2C%20ANUL%C2%B7LACI%C3%93%2C%20DEVOLUCI%C3%93%20O%20RECTIFICACI%C3%93%20DE%20FACTURA/Sol%C2%B7licitud%20anulacio%2C%20devolucio%20o%20rectificacio%20factura%20externa.xls
+APE;42;Certificats econòmics d'estar al corrent d'obligacions tributàries;;;X;X;;;;;;;;;;;;;;;;;;;X;https://cv.udl.cat/access/content/group/normativa_economica/EMISSI%C3%93%2C%20ANUL%C2%B7LACI%C3%93%2C%20DEVOLUCI%C3%93%20O%20RECTIFICACI%C3%93%20DE%20FACTURA/Sol%C2%B7licitud%20anulacio%2C%20devolucio%20o%20rectificacio%20factura%20externa.xls
+APE;43;Assessorament i tramitació d'expedients de contractació d'obres, serveis i/o subministraments;;;X;X;;;;;;;X;;;;;;X;;;;;;X;
+APE;44;Retorn de la documentació administrativa d'expedients de contractació;;X;;;;;;;;;X;;;;;;;;;;;;X;http://www.udl.cat/export/sites/universitat-lleida/ca/serveis/afin/.galleries/docs/documents/Sol.licitud_devolucio_documentacio_administrativa.pdf
+APE;45;Crèdit extraordinari o suplement de crèdit;;;X;X;;;;;;;;;;;;;;;;;;;X;https://cv.udl.cat/access/content/group/normativa_economica/Sol%C2%B7licitud%20Cr%C3%A8dit%20Extraordinari%20o%20Suplement%20de%20Cr%C3%A8dit/Sol%C2%B7licitud%20cr%C3%A8dit%20extraordinari%20o%20suplement%20de%20cr%C3%A8dit.docx
+APE;46;Compatibilitat d'activitats;;;X;X;;;;;;;;;;;;;;;;;X;;;
+APE;47;Horari laboral;;;;X;;;;;;;;;;;;;;;;;X;;;
+APE;48;Reducció de la jornada laboral;;;;X;;;;;;;;;;;;;;;;;X;;;
+APE;49;Permisos i llicències;;;;X;;;;;;;;;;;;;;;;;X;;;
+APE;50;Vacances;;;;X;;;;;;;;;;;;;;;;;X;;;
+ADQF;51;Portal de treball (empreses i institucions);;X;;;;;;;;;;;;;;X;X;;;;;;;https://borsatreball.udl.cat/borsatreball/publico/insempresa.jsp?idioma=es&accion
+APE;52;Formació del PAS;;;;;;;;;;;;;;;;;;;;;;;;https://portalempleat.udl.cat/iportal
+APE;53;Certificats en matèria de personal;;;X;X;;;;;;;;;;;;;;;;;X;;;
+ACRI;54;Venda de productes bibliogràfics i merchandising de la Universitat de Lleida (UdL);X;X;X;X;;;;X;;;;;X;X;;;;X;X;;;;;
+ACRI;55;Gestió de la propietat intel·lectual i els drets d'explotació i imatge de l'edició de materials docents i de recerca;;X;X;X;;;;;;;X;;X;;;;X;X;;;;;;
+ACRI;56;Producció i edició de materials docents, científics i de promoció de la marca UdL;;X;X;X;;;;;X;;X;;X;;;;X;X;;;;;;
+ACRI;57;Assessorament i gestió d'actes protocol·laris;X;;X;X;;;;X;;;X;;;;;;;;;;;;;
+ACRI;58;Assessorament i gestió d'activitats culturals;X;X;X;X;;;;X;;;;X;;;X;;;;;;;;;
+ACRI;59;Difusió de les activitats de la Universitat;X;X;X;X;;;;X;;;;;;;;X;;;;;;;;
+ACRI;60;Assessorament, estudis i gestió d'activitats en perspectiva de gènere i igualtat d'oportunitats;X;X;X;X;;;;;;;;X;;;X;;;;;;;;;http://www.cdp.udl.cat/home/index.php/ca/docencia-recerca/cursos/inscripcio|http://www.cdp.udl.cat/home/index.php/ca/contactar
+ACRI;61;Ajuts a projectes de cooperació i desenvolupament;X;;X;X;;;;X;;;;;;;;;;;;X;;;;
+ACRI;62;Assessorament i prèstec de documentació de cooperació;X;X;X;X;;;;X;;;;;X;;X;;;X;;;;;;
+AITI;63;Correu electrònic;X;;X;X;;;;;;;;;;;;;;;;;;X;;https://cv.udl.cat/access/content/group/serveiinformatica/Serveis%20ASIC/compteUdL.pdf|http://alumnes.udl.cat/noticies/007-01-G-0004v1ManualconfigcorreuAlumnes.pdf
+AITI;64;Xarxa de dades i xarxa sense fils (WI-FI);X;;X;X;;;;;;;X;;;;;;;;;;;X;;http://www.udl.cat/serveis/asic/serveis/suport.html|https://cv.udl.cat/access/content/group/serveiinformatica/Serveis%20ASIC/congressos.pdf
+AITI;65;Servei de Campus Virtual;X;;X;X;;;;;;;;;;;;;;;;;;X;;
+AITI;66;Servei de hosting web;;;X;X;;;;;;;;;;;;;;;;;;X;;https://cv.udl.cat/access/content/group/serveiinformatica/Serveis%20ASIC/Formulari%20de%20serveis%20xarxa%20Asic.pdf|https://cv.udl.cat/access/content/group/serveiinformatica/Serveis%20ASIC/Formulari%20de%20serveis%20xarxa%20Asic.pdf
+AITI;67;Telefonia fixa o mòbil;;;X;X;;;;;;;;;;;;;;;;;;X;;
+AITI;68;Compra de material informàtic;;;X;X;;;;;;;;;;;;;;;;;;X;;https://cv.udl.cat/portal/site/serveiinformatica/page/bc699d0e-e972-4738-80fb-da2a50bc2987
+AITI;69;Serveis de videoconferència;;;X;X;;;;;;;;;;;;;;;;;;X;;https://cv.udl.cat/portal/site/serveiinformatica/page/bc699d0e-e972-4738-80fb-da2a50bc2987
+AITI;70;Assegurances: Reclamacions de danys, en cas de sinistre;;;X;X;;;;;;X;;;;;;;;;;;;;X;
+AITI;71;Suport informàtic;X;;X;X;;;;;;;X;;;;;;;;;;;X;;https://cv.udl.cat/portal/site/serveiinformatica/page/bc699d0e-e972-4738-80fb-da2a50bc2987
+AITI;72;Adquisició o desenvolupament de solucions informàtiques;;;X;X;;;;;;;X;;;;;;;;;;;X;;https://cv.udl.cat/portal/site/serveiinformatica/page/bc699d0e-e972-4738-80fb-da2a50bc2987
+ADQF;73;Admissió al doctorat;X;X;;;X;X;;;;;;;;;;;;;;;;;;http://www.doctorat.udl.cat/export/sites/Doctorat/documents/M1Sollicitud-de-matricula-als-programes-de-doctorat-2015_2016-catala.pdf
+AITI;74;Accés a documents, recursos tecnològics i espais de treball. Servei de Biblioteca i Documentació;X;X;X;X;;;X;;;;;X;X;X;;;;X;X;;;X;;
+AITI;75;Préstec de documents, d'equipament tecnològic i d'espais de treball. Servei de Biblioteca i Documentació (SBD);X;;X;X;;;;;;;X;X;X;X;;;;;X;;;X;;https://cataleg.udl.cat/patroninfo*cat
+AITI;76;Formació d'usuaris del Servei de Biblioteca i Documentació (SBD);X;;X;X;;;X;;;;;;X;;;;;;;;;;;http://www.sbd.udl.cat/ca/gestions/solicitud-de-sessio-de-formacio
+AITI;77;Manteniment correctiu i reforma dels espais i instal·lacions;;;X;X;;;;;;;X;;;X;;;;;;;;;;http://www.udl.cat/serveis/oti/formulari.html
+AITI;78;Gestió del mobiliari;;;X;X;;;;;;;;;;X;;;;;;;;X;;http://www.udl.cat/export/sites/universitat-lleida/ca/serveis/patrimoni/.galleries/docs/documents/Peticio_Mobiliari_1.pdf
+AITI;79;Tramitació de sol·licituds d'assegurances;X;;X;X;;;;;;X;;;;;;;;;;;;;;http://www.udl.cat/export/sites/universitat-lleida/ca/serveis/patrimoni/.galleries/docs/documents/FULL_PAGAMENT_6_MESOS.pdf|http://www.udl.cat/export/sites/universitat-lleida/ca/serveis/patrimoni/.galleries/docs/documents/FULL_PAGAMENT_12_MESOS.pdf
+AITI;80;Gestió de la imatge corporativa;X;X;X;X;;;;X;;;;;;;;X;;;;;;;;http://www.ceciliasales.com/imatge/forcaninc.php
+AITI;81;Transferència de documents. Gestió documental i arxiu;X;;X;X;;;;;;;X;;X;;;;;;;;;;;http://www.udl.cat/export/sites/universitat-lleida/ca/serveis/arxiu/.galleries/docs/Servei_Arxiu_Documents/FORMULARI_TRANSFERENCIA.pdf
+AITI;82;Consulta i préstec de documents. Gestió documental i arxiu;X;X;X;X;;;;;;;;;X;;;;X;X;;;;;;http://www.udl.cat/export/sites/universitat-lleida/ca/serveis/arxiu/.galleries/docs/Servei_Arxiu_Documents/FORMULARI_CONSULTA.pdf|http://www.udl.cat/export/sites/universitat-lleida/ca/serveis/arxiu/.galleries/docs/Servei_Arxiu_Documents/FORMULARI_PRESTEC.pdf
+AITI;83;Disponibilitat d'espais restringits amb targeta autoritzada;X;;X;X;;;;;;;;;;X;;;;;;;;;;
+AITI;84;Reserva i cessió d'espais i instal·lacions;X;X;X;X;;;;;;;;;;X;;;;;X;;;;;http://gestioespais.udl.cat/espais|http://www.udl.cat/contacta/solicitud_espais.html
+APE;85;Retorn de la garantia definitiva a les empreses adjudicatàries;;X;;;;;;;;;;;;;;;X;;;;;;X;
+AITI;86;Punt d'informació;;X;X;X;;;;X;;;;;;;;X;;;;;;;;
+SdG;87;Tramitació de queixes de la Sindicatura de Greuges;X;;;;;;;;;;;;;;;;;;;;;;;http://www.udl.cat/ca/organs/sindic/formulari/
+Gerencia;89;Certificat digital;;;;;;;;;;;;;;;;;;;;;;;;https://ercd.udl.cat/
+;;;;;;;8;14;10;10;8;9;13;13;9;9;9;9;7;6;6;10;7;12;11;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,13 @@
+C:\Compartida\Projectes\eSEU\Catàleg de serveis\CSV2baseDadesCatalegServeis\obj\Debug\ResolveAssemblyReference.cache
+C:\Compartida\Projectes\eSEU\Catàleg de serveis\CSV2baseDadesCatalegServeis\bin\Debug\CSV2baseDadesCatalegServeis.exe
+C:\Compartida\Projectes\eSEU\Catàleg de serveis\CSV2baseDadesCatalegServeis\bin\Debug\CSV2baseDadesCatalegServeis.pdb
+C:\Compartida\Projectes\eSEU\Catàleg de serveis\CSV2baseDadesCatalegServeis\bin\Debug\ConectordbER.dll
+C:\Compartida\Projectes\eSEU\Catàleg de serveis\CSV2baseDadesCatalegServeis\bin\Debug\MultiTools.dll
+C:\Compartida\Projectes\eSEU\Catàleg de serveis\CSV2baseDadesCatalegServeis\bin\Debug\RecursosProgramacio.dll
+C:\Compartida\Projectes\eSEU\Catàleg de serveis\CSV2baseDadesCatalegServeis\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Compartida\Projectes\eSEU\Catàleg de serveis\CSV2baseDadesCatalegServeis\bin\Debug\itextsharp.dll
+C:\Compartida\Projectes\eSEU\Catàleg de serveis\CSV2baseDadesCatalegServeis\bin\Debug\ConectordbER.pdb
+C:\Compartida\Projectes\eSEU\Catàleg de serveis\CSV2baseDadesCatalegServeis\bin\Debug\MultiTools.pdb
+C:\Compartida\Projectes\eSEU\Catàleg de serveis\CSV2baseDadesCatalegServeis\bin\Debug\RecursosProgramacio.pdb
+C:\Compartida\Projectes\eSEU\Catàleg de serveis\CSV2baseDadesCatalegServeis\obj\Debug\CSV2baseDadesCatalegServeis.exe
+C:\Compartida\Projectes\eSEU\Catàleg de serveis\CSV2baseDadesCatalegServeis\obj\Debug\CSV2baseDadesCatalegServeis.pdb
