@@ -1,4 +1,6 @@
-﻿#define RELEASE
+﻿//#define RELEASE
+#define HORA_SERVER
+
 using System;
 using System.Configuration;
 using System.Data;
@@ -76,10 +78,15 @@ public partial class _Default : System.Web.UI.Page
         Log.WriteEntry("Càrrega inicial formulari");
 
         LoginOK = true;
+        DateTime HoraReal;
 
-        DateTime HoraReal = GetNetworkTime();
+#if HORA_SERVER
+        HoraReal = System.DateTime.Now;
+#else
+       HoraReal = GetNetworkTime();
+#endif
 #if RELEASE
-          if (Page.Request.ClientCertificate.IsPresent)
+        if (Page.Request.ClientCertificate.IsPresent)
            {
                X509Certificate2 x509Cert2 = new X509Certificate2(Page.Request.ClientCertificate.Certificate);
                Log.WriteEntry("Certificat al " + x509Cert2.FriendlyName + " " + x509Cert2.Subject + " " + x509Cert2.Thumbprint);                        
@@ -94,7 +101,7 @@ public partial class _Default : System.Web.UI.Page
                Response.Redirect("ControlError.aspx?Codi=0");
                LoginOK = false;
            }
-#endif        
+#endif
         
     }
     protected void PostejaForm(object sender, EventArgs e)
@@ -102,7 +109,9 @@ public partial class _Default : System.Web.UI.Page
         //mLDAP = new ConectorLDAP.Conector();
         if (this.ArxiuCSV.HasFile)
         {                     
-            if (this.ArxiuCSV.PostedFile.ContentType == "application/vnd.ms-excel")
+            if (this.ArxiuCSV.PostedFile.ContentType == "application/vnd.ms-excel" 
+                ||
+                this.ArxiuCSV.PostedFile.ContentType.Contains("csv"))
             {
                 try
                 {

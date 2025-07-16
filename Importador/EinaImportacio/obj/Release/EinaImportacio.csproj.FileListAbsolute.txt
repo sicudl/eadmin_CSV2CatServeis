@@ -1,0 +1,9 @@
+C:\Compartida\Repo_Projectes\eadmin_CSV2CatalegServeis\eadmin_CSV2CatServeis\Importador\EinaImportacio\bin\Release\EinaImportacio.dll
+C:\Compartida\Repo_Projectes\eadmin_CSV2CatalegServeis\eadmin_CSV2CatServeis\Importador\EinaImportacio\bin\Release\EinaImportacio.pdb
+C:\Compartida\Repo_Projectes\eadmin_CSV2CatalegServeis\eadmin_CSV2CatServeis\Importador\EinaImportacio\bin\Release\ConectordbER.dll
+C:\Compartida\Repo_Projectes\eadmin_CSV2CatalegServeis\eadmin_CSV2CatServeis\Importador\EinaImportacio\bin\Release\MultiTools.dll
+C:\Compartida\Repo_Projectes\eadmin_CSV2CatalegServeis\eadmin_CSV2CatServeis\Importador\EinaImportacio\bin\Release\MySql.Data.dll
+C:\Compartida\Repo_Projectes\eadmin_CSV2CatalegServeis\eadmin_CSV2CatServeis\Importador\EinaImportacio\bin\Release\RecursosProgramacio.dll
+C:\Compartida\Repo_Projectes\eadmin_CSV2CatalegServeis\eadmin_CSV2CatServeis\Importador\EinaImportacio\obj\Release\EinaImportacio.csprojResolveAssemblyReference.cache
+C:\Compartida\Repo_Projectes\eadmin_CSV2CatalegServeis\eadmin_CSV2CatServeis\Importador\EinaImportacio\obj\Release\EinaImportacio.dll
+C:\Compartida\Repo_Projectes\eadmin_CSV2CatalegServeis\eadmin_CSV2CatServeis\Importador\EinaImportacio\obj\Release\EinaImportacio.pdb

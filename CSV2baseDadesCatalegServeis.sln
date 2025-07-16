@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dependencies", "Dependencies", "{0D95F2A6-21F1-4347-9347-57894938BE4D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientConsolaCSV2CatalegServeis", "CSV2baseDadesCatalegServeis\ClientConsolaCSV2CatalegServeis.csproj", "{BC880AA9-6B94-4100-9A5B-1D91031F034A}"
@@ -16,7 +18,7 @@ EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "VersioEnWeb", "VersioEnWeb\", "{DD79CBD2-99E6-4B9E-B14F-295EE8BB1B4A}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
-		ProjectReferences = "{b359bb6f-7c4e-4840-8391-af0c7bab1cb0}|EinaImportacio.dll;{D8E1A1B1-4C41-44BC-8CB4-2C6C010538B4}|MultiTools.dll;{7286BE89-A907-44DB-A43A-3CA4F3FA0537}|RecursosProgramacio.dll;"
+		ProjectReferences = "{b359bb6f-7c4e-4840-8391-af0c7bab1cb0}|EinaImportacio.dll;"
 		Debug.AspNetCompiler.VirtualPath = "/VersioEnWeb"
 		Debug.AspNetCompiler.PhysicalPath = "VersioEnWeb\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\VersioEnWeb\"
@@ -32,6 +34,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "VersioEnWeb", "VersioEnWeb\
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "64502"
+		SlnRelativePath = "VersioEnWeb\"
 	EndProjectSection
 EndProject
 Global

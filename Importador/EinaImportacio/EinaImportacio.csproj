@@ -40,9 +40,17 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\DLLMysql\ConectordbER.dll</HintPath>
     </Reference>
+    <Reference Include="MultiTools, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\DLL\MultiTools.dll</HintPath>
+    </Reference>
     <Reference Include="MySql.Data, Version=6.1.0.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\DLLMysql\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="RecursosProgramacio, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\DLL\RecursosProgramacio.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core">
@@ -53,16 +61,6 @@
   <ItemGroup>
     <Compile Include="EinaImportacio.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\..\..\RecursosProgramacio\RecursosProgramacio.csproj">
-      <Project>{7286BE89-A907-44DB-A43A-3CA4F3FA0537}</Project>
-      <Name>RecursosProgramacio</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\..\..\ToolsMultiplataforma\MultiTools.csproj">
-      <Project>{D8E1A1B1-4C41-44BC-8CB4-2C6C010538B4}</Project>
-      <Name>MultiTools</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

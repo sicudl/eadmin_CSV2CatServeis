@@ -25,3 +25,14 @@ E:\Compartida\Projectes\eSEU\Catàleg de serveis\Importador\EinaImportacio\bin\D
 E:\Compartida\Projectes\eSEU\Catàleg de serveis\Importador\EinaImportacio\obj\Debug\EinaImportacio.csprojResolveAssemblyReference.cache
 E:\Compartida\Projectes\eSEU\Catàleg de serveis\Importador\EinaImportacio\obj\Debug\EinaImportacio.dll
 E:\Compartida\Projectes\eSEU\Catàleg de serveis\Importador\EinaImportacio\obj\Debug\EinaImportacio.pdb
+C:\Compartida\Repo_Projectes\eadmin_CSV2CatalegServeis\eadmin_CSV2CatServeis\Importador\EinaImportacio\obj\Debug\EinaImportacio.csprojResolveAssemblyReference.cache
+C:\Compartida\Repo_Projectes\eadmin_CSV2CatalegServeis\eadmin_CSV2CatServeis\Importador\EinaImportacio\obj\Debug\EinaImportacio.dll
+C:\Compartida\Repo_Projectes\eadmin_CSV2CatalegServeis\eadmin_CSV2CatServeis\Importador\EinaImportacio\obj\Debug\EinaImportacio.pdb
+C:\Compartida\Repo_Projectes\eadmin_CSV2CatalegServeis\eadmin_CSV2CatServeis\Importador\EinaImportacio\bin\Debug\EinaImportacio.dll
+C:\Compartida\Repo_Projectes\eadmin_CSV2CatalegServeis\eadmin_CSV2CatServeis\Importador\EinaImportacio\bin\Debug\EinaImportacio.pdb
+C:\Compartida\Repo_Projectes\eadmin_CSV2CatalegServeis\eadmin_CSV2CatServeis\Importador\EinaImportacio\bin\Debug\ConectordbER.dll
+C:\Compartida\Repo_Projectes\eadmin_CSV2CatalegServeis\eadmin_CSV2CatServeis\Importador\EinaImportacio\bin\Debug\MultiTools.dll
+C:\Compartida\Repo_Projectes\eadmin_CSV2CatalegServeis\eadmin_CSV2CatServeis\Importador\EinaImportacio\bin\Debug\MySql.Data.dll
+C:\Compartida\Repo_Projectes\eadmin_CSV2CatalegServeis\eadmin_CSV2CatServeis\Importador\EinaImportacio\bin\Debug\RecursosProgramacio.dll
+C:\Compartida\Repo_Projectes\eadmin_CSV2CatalegServeis\eadmin_CSV2CatServeis\Importador\EinaImportacio\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Compartida\Repo_Projectes\eadmin_CSV2CatalegServeis\eadmin_CSV2CatServeis\Importador\EinaImportacio\bin\Debug\itextsharp.dll
